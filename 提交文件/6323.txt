@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>登录</title>
+</head>
+<h1><center>GLOSSES</center></h1>
+<body leftmargin=500>
+<p><h2>博客登录</h2></p>
+<body bgcolor="#C0D9D9">
+<body topmargin=50>
+<body><table border=1 width=500 height=150 align="center">
+<td> 
+<h1>
+<form action="answer.html" method="post">用户名：
+<input type="txtmail" size="30" maxlength="25">
+<font size="+1" >@</font>
+<select name="address">
+<option value="163.com">163.com
+</option>
+<option value "qq.com.">qq.com</option>
+</select><br>
+密码：&nbsp;&nbsp;
+<input type="password" name="txtmm" size="20" maxlength="20"><small><a href="dw">忘记密码?</a></small><br><center>
+<input type="submit" name="submit" value="登录">&nbsp;&nbsp;
+<input type="reset" value="清空"></td> </center></h1>
+</form>
+</table>
+<h2><center><a href="http://keleyi.com/jq/hovertree/">立即注册>></a></center></h2>
+<body topmargin=600 lestmargin=200>
+<p><h3>服务条款：</h3>用户注册成功后，将为用户基于服务使用的客观需要而在申请、注册时，保护用户帐号和密码由用户负责保管。
+用户使用微博服务过程中，须对自身使用博客自身的行为，对任何由用户通过博客发布、公开的信息，及对由此产生的任何后果承担全部责任。
+用户提交、发布或显示的信息将对其他博客用户及第三方服务及网站可见(用户可通过设置功能自行控制、把握可查阅其信息的帐号类型)。</p>
+</body>
+</html>
